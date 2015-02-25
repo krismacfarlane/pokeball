@@ -13,4 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap
+//= require models
+//= require views/largePokemon
+//= require views/smallPokemon
 //= require main
